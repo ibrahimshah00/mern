@@ -1,0 +1,12 @@
+# Auto normalize line endings
+* text=auto
+
+# Force LF endings for JavaScript/JSX/TS/HTML/CSS/JSON/etc.
+*.js text eol=lf
+*.jsx text eol=lf
+*.ts text eol=lf
+*.tsx text eol=lf
+*.html text eol=lf
+*.css text eol=lf
+*.json text eol=lf
+*.md text eol=lf
